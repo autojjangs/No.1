@@ -167,5 +167,8 @@ pip-log.txt
 #############
 
 log*
-*.ttf
+#*.ttf
 .checkstyle
+
+*.iml
+.idea
